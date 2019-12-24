@@ -1,0 +1,11 @@
+<users>
+    <baseurl>https://kazan.hh.ru</baseurl>
+    <user>
+        <login>Jeremy@list.ru</login>
+        <password>qwerty</password>
+    </user>
+    <user>
+        <login>someligin@list.ru</login>
+        <password>qwerty</password>
+    </user>
+</users>
